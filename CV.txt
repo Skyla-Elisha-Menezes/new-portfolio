@@ -3,7 +3,7 @@
     career in Data Science. Currently, I am seeking for part-time opportunities to gain practical experience and grow 
     professionally. Alongside technical knowledge, I am strengthening soft skills such as communication, teamwork, 
     listening and time management to contribute effectively in both academic and professional environments.
-    
+
 Education
 
     City st George's, University of London (2025-2029)
@@ -29,6 +29,17 @@ Work Experience
     TFL Data Analysis & Testing - (Jan 2025) - Testing TFL’s upcoming innovation challenge and giving some creative 
     ideas. Also doing an assigned data analysis project about students experience about TFL’s previous innovation 
     challenge programme.
+
+Certifications
+
+    Subject awards – Creative Imedia (2022) & (2023), Photography (2023)
+
+    TFL - Certificate of Achievement (Industry Placement) (2024)
+
+    CISCO - Certificate Of Completion (Industry Placement) (2024)
+
+Skills
+    Microsoft Office Suite, Communication, Listening, Mathematics, Vocabulary, Project Management, Photoshop, Photography, Figma (web designs), Coding (React, Python, FastAPI)
 
 Hobbies
     
