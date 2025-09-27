@@ -1,3 +1,9 @@
+ Personal Statement
+    I am an ambitious student who is passionate about programming, data and design, with an interest in pursuing a 
+    career in Data Science. Currently, I am seeking for part-time opportunities to gain practical experience and grow 
+    professionally. Alongside technical knowledge, I am strengthening soft skills such as communication, teamwork, 
+    listening and time management to contribute effectively in both academic and professional environments.
+    
 Education
 
     City st George's, University of London (2025-2029)
